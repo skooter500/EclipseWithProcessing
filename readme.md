@@ -1,0 +1,1 @@
+# A project that shows how to use the Processing libraries from an Eclipse project
